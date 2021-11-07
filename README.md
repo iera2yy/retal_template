@@ -1,3 +1,6 @@
+# 脚手架创建React + Typescript
+create-react-app retal_template --template typescript
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
